@@ -1,1 +1,1 @@
-# conflict 1
+print("conflict new 1")
